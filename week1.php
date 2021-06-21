@@ -2,7 +2,7 @@
 class Solution {
 
     /**
-	 * 66 加-
+     * 66 加 一
      * @param Integer[] $digits
      * @return Integer[]
      */
